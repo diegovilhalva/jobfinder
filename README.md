@@ -29,21 +29,15 @@ This project is a simple job finder website built using Node.js, Express, SQLite
    npm install
    ```
 
-3. **Set up the database:**
 
-   Initialize the SQLite database with sample data.
 
-   ```sh
-   npm run init-db
-   ```
-
-4. **Start the server:**
+3. **Start the server:**
 
    ```sh
    npm start
    ```
 
-5. **Open your browser:**
+3. **Open your browser:**
 
    Navigate to `http://localhost:3000` to view the website.
 
