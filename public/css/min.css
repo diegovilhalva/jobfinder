@@ -1,0 +1,71 @@
+/* add page */
+
+#add-form-container {
+    margin-top:100px;
+}
+
+#form-box {
+    padding: 50px;
+    box-shadow: 0 1px 5px rgba(0,0,0,.35 );
+    border-radius: 8px;
+    background-color: #fff;
+    margin-bottom: 50px;
+}
+#add-form-container h1 {
+    margin-bottom: 20px;
+}
+#add-form-container h2 {
+    color:#f03e3e;
+    font-weight: bold;
+    font-size: 24px;
+    margin-bottom: 30px;
+}
+
+#add-form-container form label {
+    font-weight: bold;
+}
+
+#add-form-container form input, #add-form-container form textarea {
+    border: 2px solid rgba(204, 204, 204, 0.658);
+    background-color: #f8f9fa;
+    width: 700px;
+}
+#add-form-container form textarea {
+    height: 100px;
+}
+#form-box button {
+    height: 50px;
+    width: 150px;
+    background-color: #f03e3e;
+    border: 1px solid transparent;
+    border-radius: 0;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+#form-box button:hover {
+    background-color: #fff;
+    border: 1px solid #f03e3e;
+    color: #f03e3e;
+}
+
+@media(max-width:450px){
+    #add-form-container form input, #add-form-container form textarea {
+        width: 100%;
+    }
+    #form-box {
+        padding: 25px;
+    }
+    #form-box h2 {
+        font-size: 1rem;
+        text-align: center;
+    }
+    #form-box button {
+        width: 100%;
+    }
+    #add-form-container form textarea {
+        height: 60px;
+    }   
+   
+
+}
