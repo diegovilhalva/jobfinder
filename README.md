@@ -19,8 +19,8 @@ This project is a simple job finder website built using Node.js, Express, SQLite
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/yourusername/job-finder.git
-   cd job-finder
+   git clone https://github.com/diegovilhalva/jobfinder.git
+   cd jobfinder
    ```
 
 2. **Install dependencies:**
@@ -28,8 +28,6 @@ This project is a simple job finder website built using Node.js, Express, SQLite
    ```sh
    npm install
    ```
-
-
 
 3. **Start the server:**
 
