@@ -5,6 +5,11 @@
 This project is a simple job finder website built using Node.js, Express, SQLite, and Express Handlebars. The website allows users to search for jobs, view job details, and post new job listings.
 
 
+## Features
+
+- **Job Listings**: View a list of available job postings.
+- **Job Details**: Click on a job to view detailed information.
+- **Post a Job**: Submit a new job listing.
 - **Search Jobs**: Search for jobs based on keywords.
 
 ## Technologies Used
